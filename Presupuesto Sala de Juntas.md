@@ -2,7 +2,7 @@
 
 **Proyecto:** Estandarización y Digitalización de Espacios de Colaboración  
 **Moneda:** Pesos Mexicanos (MXN)  
-**Fecha:** Enero 2026
+**Fecha:** Febrero 2026
 
 ---
 
